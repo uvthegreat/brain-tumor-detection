@@ -19,7 +19,6 @@ The model is built using deep learning modules such as tensorflow, keras, scikit
 2. **Model Training**:
 
    - Split the data into training and test sets.
-   - Train a multiple regression model on the training data using custom functions for gradient descent and cost calculation.
 
 3. **Evaluation**:
    - Evaluate the model using Mean Squared Error (MSE) and R-squared (R²) metrics.
